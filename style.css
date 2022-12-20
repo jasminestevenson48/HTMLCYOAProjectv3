@@ -1,0 +1,84 @@
+body {
+    background-color: lightgreen;
+  }
+  p {
+    font-family: comicsans;
+    font-size: 25px;
+  }
+
+  
+  h1 {
+    color: darkgreen;
+    text-align: center;
+  }
+
+  h2 {
+    color:fuchsia;
+    text-align: center;
+  }
+  
+  h3 {
+    color:rgb(142, 13, 240);
+    text-align: center;
+  }
+  
+  h4 {
+    color: rgb(230, 46, 76);
+    text-align: center;
+  }
+  
+  h5 {
+    color: rgb(7, 86, 82);
+    text-align: center;
+
+  }
+
+  h6 {
+    color: forestgreen;
+    text-align: center;
+  }
+  
+  .flexbox-container {
+    display: flexbox;
+  }
+
+  .flexbox-item{
+    width: 200;
+    margin: 10;
+    border: 3; 
+    background-color: rgb(61, 176, 90);
+  }
+
+  .flexbox-item-1{
+    min-height: 100;
+    min-width: 100;
+  }
+
+  .flexbox-item-2{
+    min-height: 100;
+  }
+
+  .flexbox-item-3{
+    min-height: 100;
+  }
+
+  .flexbox-item-4{
+    min-height: 100;
+  }
+
+  .flexbox-item-5{
+    min-height: 100;
+  }
+
+  .flexbox-item-6{
+    min-height: 100;
+  }
+
+  .flexbox-item-7{
+    min-height: 100;
+  }
+
+  .flexbox-item-8{
+    min-height: 100;
+  }
+  
